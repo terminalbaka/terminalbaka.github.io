@@ -1,0 +1,12 @@
+{
+  "name": "terminalbaka.github.io",
+  "version": "1.0.0",
+  "description": "Site do terminalbaka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matheus Rosmaninho <matheusrosmano@gmail.com>",
+  "license": "ISC"
+}
