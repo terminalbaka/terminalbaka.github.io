@@ -1,5 +1,7 @@
 # Terminal baka
 
+![site workflow](https://github.com/terminalbaka/terminalbaka.github.io/actions/workflows/configure-pages.yml/badge.svg)
+
 Bem-vindo ao Terminal baka! Aqui você encontrará artigos, tutoriais e análises sobre os mais recentes avanços tecnológicos.
 
 ## Recursos
