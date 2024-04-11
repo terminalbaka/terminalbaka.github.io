@@ -1,45 +1,28 @@
-# terminalbaka
+# Terminal baka
 
-This template should help get you started developing with Vue 3 in Vite.
+![site workflow](https://github.com/terminalbaka/terminalbaka.github.io/actions/workflows/configure-pages.yml/badge.svg)
 
-## Recommended IDE Setup
+Bem-vindo ao Terminal baka! Aqui você encontrará artigos, tutoriais e análises sobre os mais recentes avanços tecnológicos.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Recursos
 
-## Type Support for `.vue` Imports in TS
+- **Artigos:** Leia os artigos mais recentes sobre as últimas tendências em tecnologia.
+- **Tutoriais:** Aprenda passo a passo como utilizar diferentes tecnologias e ferramentas.
+- **Análises:** Descubra análises detalhadas de produtos e serviços tecnológicos.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Como Contribuir
 
-## Customize configuration
+Se você gostaria de contribuir para o site, siga estas etapas:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Faça um fork deste repositório.
+2. Crie uma nova branch com o nome da sua feature: `git checkout -b minha-feature`.
+3. Faça as alterações desejadas no código.
+4. Faça commit das suas alterações: `git commit -m 'Adicionando nova feature'`.
+5. Faça push para a branch: `git push origin minha-feature`.
+6. Abra um pull request.
 
-## Project Setup
+## Contato
 
-```sh
-npm install
-```
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco através do email [terminalbaka@gmail.com](mailto:terminalbaka@gmail.com).
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Esperamos que você aproveite o nosso site!
